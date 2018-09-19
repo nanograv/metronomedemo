@@ -1,11 +1,10 @@
-# A Second Chromatic Timing Event of Interstellar Origin toward PSR J1713+0747
+# An Acoustical Analogue of a Galactic-scale Gravitational-Wave Detector
 
-This repository links to various components regarding [Lam et al. 2018a][1] ([arXiv][2]). See the [dedicated webpage][3] for more information. 
-
-
-
-[1]: http://iopscience.iop.org/article/10.3847/1538-4357/aac770/meta
-[2]: https://arxiv.org/abs/1712.03651
-[3]: https://nanograv.github.io/1713ISMevents/
+This repository links to various components regarding [Lam et al. 2018c][1] ([arXiv][2]). See the [dedicated webpage][3] for more information. Get the code [here][4].
 
 
+
+[1]: https://aapt.scitation.org/doi/10.1119/1.5050190
+[2]: https://arxiv.org/abs/1803.05285
+[3]: https://nanograv.github.io/metronomedemo/
+[4]: https://github.com/nanograv/tabletop_pta
